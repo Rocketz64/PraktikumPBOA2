@@ -1,0 +1,3 @@
+Cara Kerja Polimorfisme:
+Suatu kelas yang menggunakan fungsi dengan nama yang sama dengan fungsi dalam kelas lain
+yang saling berhubungan. Sehingga, fungsi akan mengeluarkan hasil bergantung pada kelas objek.
