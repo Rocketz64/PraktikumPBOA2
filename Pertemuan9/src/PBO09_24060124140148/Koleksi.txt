@@ -1,0 +1,2 @@
+Koleksi merupakan sebiah framework yang menyediakan arsitektur
+untuk menyimpan sekelompok Objek.
